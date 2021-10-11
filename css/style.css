@@ -382,6 +382,19 @@ option{
     .session-date-block {
         max-width: 70%;
     }
+
+    .price-label{
+        font-size: 10px;
+    line-height: 13px;
+    }
+    .price-total{
+        font-size: 38px;
+        line-height: 21px;
+    }
+    .ruble{
+        font-size: 28px;
+        line-height: 21px;
+    }
 }
 
 
