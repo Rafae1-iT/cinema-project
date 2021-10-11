@@ -373,6 +373,15 @@ option{
     .legend{
      display: none;
     }
+    .session-date-block {
+        max-width: 80%;
+    }
+}
+
+@media (max-width: 365px) {
+    .session-date-block {
+        max-width: 70%;
+    }
 }
 
 
